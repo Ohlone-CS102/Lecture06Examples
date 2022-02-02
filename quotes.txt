@@ -1,0 +1,3 @@
+"A computer once beat me at chess, but it was no match for me at kick boxing." — Emo Philips
+"Computer Science is no more about computers than astronomy is about telescopes."— Edsger W. Dijkstra
+"Programs must be written for people to read, and only incidentally for machines to execute." — Abelson and Sussman

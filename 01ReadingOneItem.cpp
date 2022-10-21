@@ -3,20 +3,19 @@
 #include <fstream>
 
 using namespace std;
-int main()
-{
+int main() {
     ifstream inputFile;
     string fileName;
     string fileContents;
 
-// Get the filename from the user
+    // Get the filename from the user
     cout << "Enter the filename: ";
     cin >> fileName;
 
-// Open the file to read
+    // Open the file to read
     inputFile.open(fileName);
 
-// if the file successfully opened, process it
+    // if the file successfully opened, process it
     if (!inputFile)
     {
         cout << "Error opening the file.\n";
